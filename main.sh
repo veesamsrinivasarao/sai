@@ -8,4 +8,5 @@ echo "Hello! What is your name?"
 read name
 
 # Print a personalized greeting
-echo "Nice to meet you, $name!
+echo "Nice to meet you, $namei!o
+this my new 
